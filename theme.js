@@ -4,6 +4,6 @@
 
   if (!currentDomain.includes(allowedDomain)) {
     alert("⚠️ Warning: This theme is licensed for use only on " + allowedDomain);
-    window.location.href = "https://www.avpnews24.com";
+    window.location.href = "#";
   }
 })();
